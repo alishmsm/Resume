@@ -1,0 +1,7 @@
+G:\Publish\Resume.Peresentation.exe
+G:\Publish\appsettings.Development.json
+G:\Publish\appsettings.json
+G:\Publish\Resume.Peresentation.dll
+G:\Publish\Resume.Peresentation.deps.json
+G:\Publish\Resume.Peresentation.runtimeconfig.json
+G:\Publish\Resume.Peresentation.pdb
